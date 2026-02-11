@@ -32,8 +32,10 @@ Com base nesses dados, deve calcular o valor total a ser pago em reais, consider
 
 ## Evolução do Projeto (Tags)
 
-**lista de links para as tags do projeto**
+- [**v0.1**][1] — Classe ConversorDeMoeda com métodos estáticos de conversão
 
 ## Objetivo Educacional
 
 Este projeto **não tem como foco a solução final perfeita**, mas sim o processo de aprendizado e a comparação entre abordagens diferentes para o mesmo problema.
+
+[1]: https://github.com/jspneto/csharp-estudos-conversor-de-moeda-simples/tree/v0.1/ConversorMoedaSimples "v0.1"

@@ -22,6 +22,7 @@ Com base nesses dados, deve calcular o valor total a ser pago em reais, consider
 
 ```bash
 |- ConversorMoedaSimples
+   |- ConversorDeMoeda.cs
    |- ConversorMoedaSimples.csproj
    |- ConversorMoedaSimples.sln
    |- Program.cs
